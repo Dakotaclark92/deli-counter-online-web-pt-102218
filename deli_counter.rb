@@ -1,2 +1,3 @@
 def line(katz_deli)
-  line array []
+  line array = []
+  count = 0
