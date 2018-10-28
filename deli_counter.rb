@@ -9,3 +9,7 @@ def line(katz_deli)
       
       line_array << ("#{count += 1}. #{name}")
       
+    end
+  end
+  
+  
