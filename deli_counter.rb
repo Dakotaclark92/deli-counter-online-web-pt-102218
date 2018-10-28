@@ -14,5 +14,3 @@ def line(katz_deli)
   
   return "The line is currently: #{line_array.join(" ")}"
 end
-
-print line ([])
