@@ -5,5 +5,6 @@ def line(katz_deli)
   if katz_deli.length == 0
     return "The line is currently empty."
   else
-    katz_deli.each do
+    katz_deli.each do |name|
+      
       
