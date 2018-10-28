@@ -1,5 +1,5 @@
 def line(katz_deli)
-  line array = []
+  line_array = []
   count = 0
   
   if katz_deli.length == 0
@@ -7,4 +7,5 @@ def line(katz_deli)
   else
     katz_deli.each do |name|
       
+      line_array << ("#{count += 1}. #{name}")
       
